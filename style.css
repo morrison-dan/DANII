@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.carousel-item{
+    height: 50vh;
+    background-color: grey;
+}
+.features{
+    background-color: black;
+    padding: 5% 10%;
+    color: white;
+}
+.col{
+    text-align: center;
+}
+.circle-container{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: grey;
+    margin: 20px auto;
+}
+.btn{
+    margin-top: 10px;
+}
+.f-hr{ 
+margin: 7% 0%;
+}
+span{
+    color: gray;
+}
+.imga{
+    width: 100%;
+}
+.dis{  display: inline;
+}
